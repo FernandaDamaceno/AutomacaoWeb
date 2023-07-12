@@ -6,7 +6,7 @@ Construir um projeto que automatize extração de informações da web sobre pro
 ### Créditos e inspirações
 Este projeto foi desenvolvido no curso "Python Impressionador" coordenado e ministardo por João Paulo Lira da empresa Hashtag.
 
-### Tecnologia
+### Tecnologia utilizada
 Python.
 
 ### Sobre o projeto
