@@ -1,7 +1,7 @@
 # Projeto Automação Web
 
 ### Objetivo
-Construir um projeto que automatize extração de informações da web sobre produtos que está interessado em comparar e precisa comprar o preço entre fornecedores.
+Construir um projeto que automatize extração de informações da web sobre produtos que está interessado em comparar e precisa comparar o preço entre fornecedores.
 
 ### Créditos e inspirações
 Este projeto foi desenvolvido no curso "Python Impressionador" coordenado e ministardo por João Paulo Lira da empresa Hashtag.
