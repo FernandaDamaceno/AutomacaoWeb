@@ -1,4 +1,4 @@
-# Projeto Automações Web
+# Projeto Automação Web
 
 ### Objetivo
 Construir um projeto que automatize extração de informações da web sobre produtos que está interessado em comprar e precisa comprar o preço entre fornecedores.
